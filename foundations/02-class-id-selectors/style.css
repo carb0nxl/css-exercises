@@ -1,0 +1,21 @@
+
+
+#num2 {
+    color: blue;
+    font-size: 36px;
+
+}
+
+#num4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+.odd {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(244, 172, 172);
+}
+
+.cooler {
+    font-size: 24px;
+}
